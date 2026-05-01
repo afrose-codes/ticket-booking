@@ -19,3 +19,12 @@ This is a React-based web application for booking tickets for department events.
 1. npm install
 2. npm start
 3. Run backend using node server.js
+
+
+## 🎥 Project Demo
+
+Watch the full working demo here:
+
+## 🎥 Project Demo
+
+[![Watch Demo](https://img.youtube.com/vi/5E7KjdITK-g/0.jpg)](https://youtu.be/5E7KjdITK-g)
