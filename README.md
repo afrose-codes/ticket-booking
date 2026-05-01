@@ -23,8 +23,12 @@ This is a React-based web application for booking tickets for department events.
 
 ## 🎥 Project Demo
 
-Watch the full working demo here:
+This video demonstrates the complete working of the Ticket Booking System.
 
-## 🎥 Project Demo
+- Login system
+- Event selection
+- Ticket booking
+- Admin dashboard
+- Database integration
 
 [![Watch Demo](https://img.youtube.com/vi/5E7KjdITK-g/0.jpg)](https://youtu.be/5E7KjdITK-g)
